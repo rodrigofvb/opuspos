@@ -8,7 +8,7 @@ Interface desenvolvida para recarga de celulares utilizando aparelhos POS da Ing
 
 Desenvolvido em C com a SDK da Ingenico, esta interface roda nativamente no dispositivo POS e utiliza conexões sockets TCP/IP via GRPS ou cabo Ethernet para troca de mensagens em arquitetura cliente/servidor.
 
-A aplicação imprime boletos nos padrões da Febrabam (com geração de código de barras).
+A aplicação imprime boletos nos padrões da Febraban, com geração de código de barras (Interleaved 2 of 5).
 
 É necessário um mock-up POS para executar a aplicação.
 
