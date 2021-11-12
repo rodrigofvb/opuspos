@@ -1,0 +1,22 @@
+[SST]
+ReaderName=<No smart card reader connected!>
+CertificateAppliDir=C:\Program Files\Ingenico\IngeDev_7\plugins\com.ingenico.ingedev.telium.core_7.18.1.6\defaultSystemFiles
+SignedSchemaDir=
+ApplicationDir=C:\Users\Rodrigo\IngeDev7_workspace\Opus\Bin\GNU_ARM_DEBUG
+ParametersDir=C:\Users\Rodrigo\IngeDev7_workspace\Opus\Bin\GNU_ARM_DEBUG
+DestinationDir=C:\Users\Rodrigo\IngeDev7_workspace\Opus\Bin\GNU_ARM_DEBUG
+TempDir=C:\Users\Rodrigo\AppData\Local\Temp\Telium
+
+[Schemas]
+NbSchemas=0
+
+
+[Application]
+ParameterFile=OPUS_T1.TXT
+ApplicationFile=OPUS.BIN
+CertificateFile=sst.V03
+CatalogFileExtension=XX
+
+[Error]
+Code=0
+msg=files correctly signed.

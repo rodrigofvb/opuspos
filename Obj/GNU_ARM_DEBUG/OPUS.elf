@@ -1,0 +1,20 @@
+Obj/GNU_ARM_DEBUG/OPUS.axf  :
+section             size      addr
+.text              86456         0
+.rodata           131656     86456
+.data               1884   2097152
+.bss                7516   2099036
+.debug_abbrev      19847         0
+.debug_info        95429         0
+.debug_line        21220         0
+.debug_frame        7580         0
+.debug_loc         51521         0
+.debug_pubnames     7442         0
+.debug_aranges      2688         0
+.debug_str         16947         0
+.comment              35         0
+.ARM.attributes       16         0
+.debug_ranges        376         0
+Total             450613
+
+
